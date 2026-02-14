@@ -10,7 +10,7 @@
   ],
   "host_permissions": [
     "<all_urls>",
-    "http://localhost:3000/*"
+    "https://resume-analyser-backend-7132.onrender.com/*"
   ],
   "action": {
     "default_popup": "src/Popup/index.html"
